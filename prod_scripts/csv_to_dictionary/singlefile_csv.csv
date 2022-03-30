@@ -1,7 +1,7 @@
 ﻿null,AP Name,IP Address,Switch,Interface
-null,daniel_test1,10.104.2.46,NDH-SUP2-E414.4A-S46.choa.org,GigabitEthernet3/0/40
-null,daniel_test2,10.104.2.46,NDH-SUP2-E414.4A-S46.choa.org,GigabitEthernet1/0/7
-null,daniel_test3,10.104.2.48,NDH-SUP2-E414.4A-S48.choa.org,GigabitEthernet4/0/3
-null,daniel_test4,10.104.2.48,NDH-SUP2-E414.4A-S48.choa.org,GigabitEthernet1/0/11
-null,daniel_test5,10.104.2.56,NDH-SUP2-E514.5A-S56.choa.org,GigabitEthernet1/0/16
-null,daniel_test6,10.104.2.58,NDH-SUP2-E514.5A-S58.choa.org,GigabitEthernet1/0/4
+null,daniel_test1,155.1.10.1,switch1.local,Ethernet0/0
+null,daniel_test2,155.1.10.2,switch1.local,Ethernet0/0
+null,daniel_test3,155.1.10.3,switch1.local,Ethernet0/0
+null,daniel_test4,155.1.10.4,switch1.local,Ethernet0/0
+null,daniel_test5,155.1.10.5,switch1.local,Ethernet0/0
+null,daniel_test6,155.1.10.6,switch1.local,Ethernet0/0
