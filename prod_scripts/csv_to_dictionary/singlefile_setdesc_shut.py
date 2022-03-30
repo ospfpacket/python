@@ -7,7 +7,7 @@ username = input("Username: ")
 password = getpass.getpass()
 csv_reader = csv.DictReader(open("singlefile_csv.csv"))                # Replace CSV file with CSV File to import
 
-row_check = "NDH-SUP2-E414.4A-S46.choa.org"                 # Set row_check to the first device in the CSV File
+row_check = "switch1.local"                 # Set row_check to the first device in the CSV File
 
 # Connect to device name in row_check
 ios_device = {
